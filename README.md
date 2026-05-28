@@ -33,16 +33,6 @@ AI: Ollama/vLLM/llama.cpp-ready local model routing for Mistral, Llama, Phi, Gem
 
 Infra: Docker, Kubernetes/k3s/Minikube, Helm, Terraform starter, Prometheus, Grafana, Loki, OpenTelemetry, Evidently AI.
 
-## Quick Start
-
-```powershell
-cd "C:\Users\Lenovo\OneDrive\Documents\New project\AetherMind"
-docker compose up --build
-```
-
-Frontend: http://localhost:3000
-
-Backend: http://localhost:8000/docs
 
 For lightweight backend-only development:
 
